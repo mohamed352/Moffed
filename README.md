@@ -18,13 +18,12 @@
 
 ## Screenshots
 
-| home                                           | login                                           | Courses                                           |
-| ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| ![home](https://github.com/mohamed352/Moffed/assets/48868363/e78bdebc-197e-4c73-bded-35a2995327c8) | ![Login](https://github.com/mohamed352/Moffed/assets/48868363/9f4c21fe-7d25-4877-be6a-8f33ee0a94e4) |![Courses](https://github.com/mohamed352/Moffed/assets/48868363/806860c7-8106-40a2-a400-1dfe88101d1a) |
-
-| Category                                     | Delete                                            | Moffed                                           |
-| ------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- |
-|![Category](https://github.com/mohamed352/Moffed/assets/48868363/d8e239a1-642b-4a46-97c1-be36d5b30ff9) | ![Delete](https://github.com/mohamed352/Moffed/assets/48868363/82e0268d-96ff-4263-8555-81fdc100d66c) |![Cat](https://github.com/mohamed352/Moffed/assets/48868363/9900d274-5cba-4274-bc3f-31d6dadcab57) |
+ ![home](https://github.com/mohamed352/Moffed/assets/48868363/e78bdebc-197e-4c73-bded-35a2995327c8) 
+ ![Login](https://github.com/mohamed352/Moffed/assets/48868363/9f4c21fe-7d25-4877-be6a-8f33ee0a94e4)
+ ![Courses](https://github.com/mohamed352/Moffed/assets/48868363/806860c7-8106-40a2-a400-1dfe88101d1a) 
+ ![Category](https://github.com/mohamed352/Moffed/assets/48868363/d8e239a1-642b-4a46-97c1-be36d5b30ff9) 
+ ![Delete](https://github.com/mohamed352/Moffed/assets/48868363/82e0268d-96ff-4263-8555-81fdc100d66c) 
+ ![Cat](https://github.com/mohamed352/Moffed/assets/48868363/9900d274-5cba-4274-bc3f-31d6dadcab57)
 
 ## Demo
 website:  [Mofeed](https://moffed-4f2e4.web.app/#/)
